@@ -2,7 +2,7 @@
 
 Aplikasi mobile panduan perawatan tanaman hias, dibuat dengan Flutter untuk Ujian Tengah Semester (UTS) Mobile Programming, Semester Ganjil 2025/2026.
 
-**Nama:** [ISI NAMA] | **NIM:** [ISI NIM] | **Kelas:** [ISI KELAS]
+**Nama:** Wahyu Rizki Yanuari | **NIM:** 240605110170 | **Kelas:** Mobile Programming Practicum I
 
 ## Tema dan Tujuan
 
